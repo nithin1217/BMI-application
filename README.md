@@ -1,4 +1,4 @@
-<img src="[./assets/screenshots/Flutter%20BMI.png](https://github.com/nithin1217/BMI-calculator-application/blob/main/bmi_calculator/BMI-Calculator-App-master/assets/screenshots/Flutter%20BMI.png)" width="100%">
+<img src="https://github.com/nithin1217/BMI-calculator-application/blob/main/bmi_calculator/BMI-Calculator-App-master/assets/screenshots/Flutter%20BMI.png" width="100%">
 
 # BMI Calculator App
 
